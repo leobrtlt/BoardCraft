@@ -24,9 +24,9 @@ $this->menu = array(
 
 <div class="alert alert-danger" role="alert">
   <h4 class="alert-heading" style="color:black!important;">Well done!</h4>
-  <p style="color:black!important;">Aww yeah, you successfully install BoardCraft ! Thank's a lot for buying ! You can edit some setting here. If you edit any theme file (such as PHP file or JS file), no support will be available ! If you want to see something in my theme, come on discord in suggestions :) (Link below this page)</p>
+  <p style="color:black!important;">Aww yeah, you successfully install BoardCraft ! Thank's a lot for buying ! You can edit some setting here. If you want to see something in my theme, come on github :) (Link below this page)</p>
   <hr>
-  <p class="mb-0" style="color:black!important;">Don't forget to add a little review on my product page ! &mdash; Léo</p>
+  <p class="mb-0" style="color:black!important;">Github: https://github.com/leobrtlt/BoardCraft</p>
 </div> 
 
 
