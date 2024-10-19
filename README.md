@@ -46,7 +46,7 @@ Boardcraft are now free because I stop working on it, I also see a lot of people
 
 1. Download the file
 2. Open the .ZIP
-3. Drag'n'Drop themes folder in the root of Multicraft (or the boardcraft theme folder in the themes folder)
+3. Drag'n'Drop "boardcraft" folder in the "themes" folder of Multicraft
 4. Select the theme in Multicraft settings
 5. Edit the theme (if you want), in the "Theme Configuration" Page, you need to be "superuser/root" to do !
 6. Do CHMOD 777 on "config.json", "theme.json" and "css/custom.css" in the theme folder
