@@ -1,0 +1,24 @@
+*{padding:0;margin:0}#container{margin-left:auto;margin-right:auto;margin-bottom:20px;text-align:left}#poweredby{padding-top:10px;text-align:center;font-size:.75em;float:right}ul{padding-left:15px}input,select{padding:2px;margin-top:1px;margin-right:0;margin-bottom:1px;margin-left:0;font-size:1em}textarea{padding:2px}.warning-box{background-color:#fff6bf;color:#514721;border:2px;border-style:solid;border-color:#ffd324;margin-left:0;margin-right:10px}.warning-text{padding-bottom:5px;padding-top:5px;padding-left:10px;padding-right:10px}.browse_cell{width:120px;height:60px;font-size:.8em;text-align:center;overflow:hidden;padding:3px}.browse_rows_actions{background-color:#bbd2e0;color:#000;font-size:80%;font-weight:400;text-align:left}.browse_rows_heading td{background-color:#069}.browse_rows_heading a{color:#f6f6f6;text-decoration:none;font-weight:700}.browse_rows_even,.browse_rows_odd{background-color:#f4f4f4;font-family:'Lucida Grande',Verdana,Arial,Sans-Serif;font-size:80%;font-weight:400;text-align:left}.browse_rows_even{background:#e5e5e5}.browse_rows_even:hover,.browse_rows_odd:hover{background-color:#ecfbd4}.browse_rows_separator{border:2px;color:#000;font-size:100%;text-align:left}.p_ba7428 .progressBar,.p_ba7428 .progressBarBorder{width:172px;height:24px;position:relative;left:0;top:0}.p_ba7428 .progressBarBorder{border-width:0;border-style:solid;border-color:#003250}.p_ba7428 .installationProgress{width:350px;text-align:left;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:12px;color:#000}.p_ba7428 .cellA,.p_ba7428 .cellI{width:15px;height:20px;font-family:Courier,Verdana;font-size:.8em;float:left}.p_ba7428 .cellI{background-color:#003250}.p_ba7428 .cellA{background-color:#003250;visibility:hidden}
+.browse_rows_even, .browse_rows_odd {
+    background-color: #141414;
+    font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+    font-size: 80%;
+    font-weight: 400;
+    text-align: left;
+}
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #212121;
+}
+.btn-default{
+	background: #007bff;
+    color: white;
+}
+.btn:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+td img{
+filter: contrast(0);
+}

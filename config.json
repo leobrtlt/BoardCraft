@@ -1,0 +1,13 @@
+{
+    "theme": {
+        "color": "default",
+        "darkmode": "true",
+        "boxed": "false"
+    },
+    "config": {
+        "name": "Boardcraft 2.6.1",
+        "description": "Your Description here",
+        "custombackground": "https:\/\/i.imgur.com\/HQz34MX.jpg",
+        "themeversion": "2.6.1"
+    }
+}
